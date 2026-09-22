@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-manager-json",
+      "title": "Task Manager with JSON",
+      "description": "Build a command-line task manager that stores tasks in a JSON file using Python's standard library",
+      "path": "assignments/task-manager-json",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
